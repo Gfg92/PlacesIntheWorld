@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PlacesIntheWorld</string>
+<!--    <string name="titulo1">Card 1</string>-->
+<!--    <string name="titulo2">Card 2</string>-->
+<!--    <string name="titulo3">Card 3</string>-->
+<!--    <string name="titulo4">Card 4</string>-->
+<!--    <string name="titulo5">Card 5</string>-->
+<!--    <string name="titulo6">Card 6</string>-->
+<!--    <string name="titulo7">Card 7</string>-->
+<!--    <string name="titulo8">Card 8</string>-->
+<!--    <string name="titulo9">Card 9</string>-->
+
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="tituloSegundo">Points of interest</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shows">Shows</string>
+    <string name="museums">Museums</string>
+
+    <string name="experience">Book your experience</string>
+
+</resources>
