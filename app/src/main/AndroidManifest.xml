@@ -14,6 +14,9 @@
         android:theme="@style/Theme.PlacesIntheWorld"
         tools:targetApi="31">
         <activity
+            android:name=".Parte2Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
